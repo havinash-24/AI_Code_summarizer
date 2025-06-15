@@ -1,0 +1,5 @@
+### Backend (Python):
+- Flask or FastAPI (for API endpoints)
+- OpenAI API
+- Modular agents (Parser, Transformer, Quality Check)
+- JSON for structured data flow
